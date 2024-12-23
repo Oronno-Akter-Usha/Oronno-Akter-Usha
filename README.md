@@ -1,4 +1,5 @@
 
+<img width="100%" src="https://raw.githubusercontent.com/Oronno-Akter-Usha/Oronno-Akter-Usha/main/github_banner.png" alt="cover" />
 
 # Hi 👋 I'm Oronno Akter Usha  
 Welcome to my GitHub profile!  
