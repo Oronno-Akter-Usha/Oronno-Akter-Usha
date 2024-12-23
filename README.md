@@ -22,7 +22,7 @@ I enjoy creating modern, responsive, and visually appealing websites using techn
 </a>
 
 <!-- Facebook -->
-<a href="https://facebook.com/profile.php?id=100072134197032" target="_blank" title="Facebook">
+<a href="https://facebook.com/OronnoUsha" target="_blank" title="Facebook">
   <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Facebook_f_logo_%282019%29.svg" alt="Facebook" width="50" height="50">
 </a>
 
