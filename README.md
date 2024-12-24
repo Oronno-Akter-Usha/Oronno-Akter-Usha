@@ -34,7 +34,7 @@ I enjoy creating modern, responsive, and visually appealing websites using techn
 
 
 <!-- Email -->
-<a href="ushaoronno1@gmail.com" target="_blank" title="Email">
+<a href="mailto:ushaoronno1@gmail.com" target="_blank" title="Email">
   <img src="https://skillicons.dev/icons?i=gmail" alt="Email" width="50" height="50">
 </a>
 
