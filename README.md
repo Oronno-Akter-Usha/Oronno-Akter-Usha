@@ -33,6 +33,12 @@ I enjoy creating modern, responsive, and visually appealing websites using techn
 </a>
 
 
+<!-- Email -->
+<a href="ushaoronno1@gmail.com" target="_blank" title="Email">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Gmail_Icon_%282020%29.svg" alt="Email" width="50" height="50">
+</a>
+
+
 ---
 
 ## 🚀 Tools & Technologies:
