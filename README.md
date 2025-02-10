@@ -87,8 +87,6 @@ I enjoy creating modern, responsive, and visually appealing websites using techn
 <!-- GitHub -->
 <img src="https://skillicons.dev/icons?i=github" alt="GitHub" title="GitHub" width="50" height="50"/>
 
-<!-- Gsap -->
-<img src="https://skillicons.dev/icons?i=gsap" alt="Gsap" title="Gsap" width="50" height="50"/>
 
 </div>
 
